@@ -1,6 +1,13 @@
 
 This is AI based doubt solver 
 
+First create virtual environment
+
+**python3 -m venv venv**
+
+
+
+
 For using this project you can apply your api-key in .env file and then run *streamlit run main.py*
 
 Then pls navigate to:-
