@@ -5,10 +5,10 @@ First create virtual environment
 
 **python3 -m venv venv**
 
+and then run **pip install -r requirements.txt**
 
 
-
-For using this project you can apply your api-key in .env file and then run *streamlit run main.py*
+For using this project you can apply your gemini api-key in .env file and then run *streamlit run main.py*
 
 Then pls navigate to:-
 
